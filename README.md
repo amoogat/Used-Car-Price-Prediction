@@ -12,4 +12,4 @@ I assumed that information such as VIN, state, and region were not important and
 There was a fair amount of incomplete data, roughly 30% that was dropped. Some features were made by multiplying other scaled numerical columns together.
 
 ### Results
-Overall, this could be used to predict a price of a car well within +/- 25% of the car's price on average. The mean absolute error was 3600.
+Overall, this model could be used to predict a price of a car well within +/- 25% of the car's price on average. The mean absolute error was 3600.
